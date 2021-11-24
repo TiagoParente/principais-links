@@ -15,3 +15,16 @@
 [Pexels](https://www.pexels.com/pt-br/) - Banco de imagens
 
 
+## 📧 - Email Marketing
+
+[SendinBlue](https://pt.sendinblue.com/)
+
+[Hubspot](https://br.hubspot.com/pricing/crm?hubs_content=br.hubspot.com%2F&hubs_content-cta=hsg-nav__link-active)
+
+[Mailrelay](https://mailrelay.com) - Fornece gratuitamente 75k de emails para até 15k de assinantes
+
+[MailChimp](https://mailchimp.com/pt-br/)
+
+[Sendpulse](https://sendpulse.com/br)
+
+[Moosend](https://moosend.com/pricing/) - Fornece emails ilimitados para até 1k de assinantes
