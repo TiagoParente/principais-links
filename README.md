@@ -1,10 +1,17 @@
-# principais-links
-Links de sites que são uteis para o dia a dia.
+![header-github](https://user-images.githubusercontent.com/60391792/143162596-eb7ed145-a2eb-4eef-91d9-27f10a118c9c.png)
 
-https://www.behance.net
+## 🎨 - DESIGN | UX | UI
 
-https://coolors.co
+[Behance](https://www.behance.net) - Site utilizado para inspiração.
+ 
+[Coolors](https://coolors.co) - Criação de paleta de cores
 
-https://color.adobe.com/
+[Adobe Color](https://color.adobe.com/) - Inspiração, criar paleta de cores, testes de acessibilidade
 
-https://unsplash.com/
+[Unsplash](https://unsplash.com/) - Banco de imagens
+
+[Freepick](https://br.freepik.com/home) - Banco de imagens
+
+[Pexels](https://www.pexels.com/pt-br/) - Banco de imagens
+
+
