@@ -1,5 +1,10 @@
 ![header-github](https://user-images.githubusercontent.com/60391792/143162596-eb7ed145-a2eb-4eef-91d9-27f10a118c9c.png)
-<p style="text-align:center;">A idéia desse repositório é criar uma lista categorizada com links uteis para o dia a dia, sinta-se a vontade para fazer uma contribuição.</p>
+<p align="center">A idéia desse repositório é criar uma lista categorizada com links uteis para o dia a dia, sinta-se a vontade para fazer uma contribuição.</p>
+
+
+-----------
+
+
 ## 🎨 - DESIGN | UX | UI
 
 [Behance](https://www.behance.net) - Site utilizado para inspiração.
