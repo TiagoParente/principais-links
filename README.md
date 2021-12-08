@@ -36,3 +36,6 @@
 
 ## 👨‍🏫 - Tradutor
 [Language Tool](https://languagetool.org/pt-BR) - Tradutor e corretor ortográfico
+
+## 🖼 - Editor de Imagem (Online)
+[Clean Up Pictures](https://cleanup.pictures/) - Remove objetos de uma imagem
