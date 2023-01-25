@@ -21,6 +21,7 @@
 
 [Unsplash](https://unsplash.com/) - Banco de imagens
 
+[Penpot](https://penpot.app/) - Criação de protótipo
 
 ## 📧 - Email Marketing
 
