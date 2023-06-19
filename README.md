@@ -11,6 +11,8 @@
  
 [Coolors](https://coolors.co) - Criação de paleta de cores
 
+[Whimsical](https://whimsical.com/) - Criação de protótipos, wireframes, fluxograma e etc...
+
 [Adobe Color](https://color.adobe.com/) - Inspiração, criar paleta de cores, testes de acessibilidade
 
 [Unsplash](https://unsplash.com/) - Banco de imagens
