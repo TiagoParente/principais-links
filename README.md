@@ -25,6 +25,8 @@
 
 [Penpot](https://penpot.app/) - Criação de protótipo
 
+[UIVerse](https://uiverse.io) - Elementos CSS
+
 ## 📧 - Email Marketing
 
 [SendinBlue](https://pt.sendinblue.com/)
