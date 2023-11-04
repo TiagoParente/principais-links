@@ -49,6 +49,9 @@
 
 [I Love IMG](https://www.iloveimg.com/pt) - Editar, comprimir, redimensionar, converter e muitas outras funcionalidades
 
+## 🛠 - Geral
+[Invertexto](https://api.invertexto.com/) - Site com varias funcionalidades úteis.
+
 ## 📧 - Markdown
 [Readme](https://readme.so/pt) - Criador de readme
 
