@@ -29,6 +29,8 @@
 
 [SVG Repo](https://www.svgrepo.com/) - Repositório de SVG's
 
+[Very Icon](https://www.veryicon.com/) - Repositório de SVG's
+
 ## 📧 - Email Marketing
 
 [SendinBlue](https://pt.sendinblue.com/)
